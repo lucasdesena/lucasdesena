@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 </p>
 <!--Frameworks/Softwares-->
 <p align="center">
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
   <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
 </p>
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=java&layout=compact&theme=gruvbox_light"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=c%2B%2B&layout=compact&theme=gruvbox_light"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=java&layout=compact&theme=gruvbox_light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=c%2B%2B&layout=compact&theme=gruvbox_light" />
 </picture>
