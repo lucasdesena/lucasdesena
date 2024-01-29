@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=c%2B%2B&layout=compact&theme=gruvbox_light"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=c%2B%2B,CMake&layout=compact&theme=gruvbox_light"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=c%2B%2B&layout=compact&theme=gruvbox_light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=c%2B%2B,CMake&layout=compact&theme=gruvbox_light" />
 </picture>
