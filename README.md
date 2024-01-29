@@ -34,16 +34,6 @@ Here are some ideas to get you started:
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
 </p>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lucasdesena&include_all_commits=true&show_icons=true&theme=gruvbox_light"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true&show_icons=true&theme=gruvbox_light" />
-</picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=c%2B%2B,CMake&layout=compact&theme=gruvbox_light"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=c%2B%2B,CMake&layout=compact&theme=gruvbox_light" />
-</picture>
+[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdesena&include_all_commits=true&show_icons=true&theme=gruvbox_light)](https://github.com/lucasdesena?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=c%2b%2b,cmake&layout=compact&theme=gruvbox_light)](https://github.com/lucasdesena?tab=repositories)
