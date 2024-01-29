@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 
 [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdesena&include_all_commits=true&show_icons=true&theme=gruvbox_light)](https://github.com/lucasdesena?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=c%2b%2b,cmake&layout=compact&theme=gruvbox_light)](https://github.com/lucasdesena?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=c%2b%2b,cmake,swift,c&layout=compact&theme=gruvbox_light)](https://github.com/lucasdesena?tab=repositories)
