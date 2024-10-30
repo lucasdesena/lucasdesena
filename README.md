@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient" width="100%">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D79533&vCenter=true&random=false&width=372&lines=Welcome+to+my+GitHub+repository!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D79533&vCenter=true&random=false&width=372&lines=Welcome+to+my+GitHub+repository!" alt="Typing SVG"/></a>
 </p>
 
 <!--Metrics-->
@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   <code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs"/></a></code>
   <code><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"/></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html"/></a></code>
+  <code><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql"/></a></code>
+  <code><a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite"/></a></code>
 </p>
 
 <!--Frameworks/Softwares-->
@@ -43,20 +45,19 @@ Here are some ideas to get you started:
   <code><a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman"/></a></code>
   <code><a href="https://angular.io/"><img src="https://skillicons.dev/icons?i=angular"/></a></code>
   <code><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs"/></a></code>
+  <code><a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron"/></a></code>
   <code><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git"/></a></code>
   <code><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github"/></a></code>
   <code><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode"/></a></code>
-  <code><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql"/></a></code>
-  <code><a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite"/></a></code>
 </p>
 
 <h2 align="center">📊 GitHub Statistics</h2>
 <!--Cards stats-->
 <p  align="center">
-  <a href="https://github.com/lucasdesena?tab=repositories"><img height=200 src="https://github-readme-stats.vercel.app/api?username=lucasdesena&show_icons=true&theme=gruvbox_light&card_width=320"></a>
-<a href="https://github.com/lucasdesena?tab=repositories">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=c%2b%2b,cmake,swift,c&size_weight=0.5&count_weight=0.5&layout=compact&theme=gruvbox_light&card_width=320">
-</a>
+  <a href="https://github.com/lucasdesena?tab=repositories"><img height=200 src="https://github-readme-stats.vercel.app/api?username=lucasdesena&show_icons=true&theme=shades-of-purple&card_width=320"></a>
+  <a href="https://github.com/lucasdesena?tab=repositories">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=c%2b%2b,cmake,swift,c&size_weight=0.5&count_weight=0.5&layout=compact&theme=shades-of-purple&card_width=320">
+  </a>
 </p>
 
 <!--🦶FOOTER--> 
