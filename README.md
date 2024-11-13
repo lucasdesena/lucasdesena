@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 <h2 align="center">📊 GitHub Statistics</h2>
 <!--Cards stats-->
 <p  align="center">
-  <a href="https://github.com/lucasdesena?tab=repositories"><img height=200 src="https://github-readme-stats.vercel.app/api?username=lucasdesena&show_icons=true&theme=shades-of-purple"></a>
+  <a href="https://github.com/lucasdesena?tab=repositories"><img height=200 src="https://github-readme-stats.vercel.app/api?username=lucasdesena&show_icons=true&card_width=320&theme=shades-of-purple"></a>
   <a href="https://github.com/lucasdesena?tab=repositories">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=c%2b%2b,cmake,swift,c&size_weight=0.5&count_weight=0.5&layout=compact&theme=shades-of-purple">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdesena&hide=c%2b%2b,cmake,swift,c&size_weight=0.5&count_weight=0.5&layout=compact&card_width=320&theme=shades-of-purple">
   </a>
 </p>
 
