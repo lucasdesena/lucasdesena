@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient" width="100%">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D79533&vCenter=true&random=false&width=372&lines=Welcome+to+my+GitHub+repository!" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D79533&vCenter=true&random=false&width=372&lines=Welcome+to+my+GitHub+repository!" alt="Typing SVG"/></a>
 </p>
 
 <h2 align="center">🛠️ Technologies and Tools</h2>
-<p align="center"><img src="./profile/mario-programando.gif" width="500"></p>
+<p align="center">
+  <a href="https://github.com/lucasdesena?tab=repositories"><img src="./profile/mario-programando.gif" width="500"></a>
+</p>
 
 <!--Linguagens-->
 <p align="center">
